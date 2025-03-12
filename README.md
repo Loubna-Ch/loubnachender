@@ -1,12 +1,18 @@
-Hi 👋! I'm Loubna Chender, a junior software engineer.
 
+</div>
+<div>
+  <h1>
+    Hi 👋! I'm Loubna Chender, a junior software engineer.
+  </h1>
+</div>
 
-  
+<div>
 <b>*About Me*:</b> \
-  🎓 &nbsp;  I'm currently studying Computer Science at University of Balamand.\
-   ✉️ &nbsp;Get in touch with me via email at ```loubnachender@gmail.com```. 
+  🎓 &nbsp;I'm currently studying Computer Science at University of Balamand.\
+  ✉️ &nbsp;Get in touch with me via email at ```loubnachender@gmail.com```. 
+</div>
 
-
+Languages I Speak (Code Edition)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
