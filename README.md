@@ -17,7 +17,7 @@
 
 ## About Me
 
-* 🎓 I'm currently pursuing a degree in Computer Science at the University of Balamand.
+* 🎓 I'm currently studying Computer Science at the University of Balamand.
 * 🌱 I believe in continuous learning and strive to expand my knowledge every day.
 * 🏃🏻‍♀️ I'm passionate about fitness and enjoy staying active.
 * 📫 Feel free to reach out to me at <a href="mailto:loubnachender@gmail.com">loubnachender@gmail.com</a>.
