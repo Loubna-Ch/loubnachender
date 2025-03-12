@@ -37,8 +37,6 @@ Welcome to my GitHub profile! I'm passionate about building software and continu
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/JavaFX-5A2E0B?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX"/>
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react"/>
 </div>
 
 ## Currently Working On
