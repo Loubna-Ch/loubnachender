@@ -1,4 +1,4 @@
-<h1>Hi 👋! I'm Loubna Chender</h1>
+<h1> Hii 👋! I'm Loubna Chender, a junior software engineer.</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
