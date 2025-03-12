@@ -9,7 +9,9 @@
 
 <b>*About Me*:</b> \
   🎓 &nbsp;I'm currently studying Computer Science at University of Balamand.\
-  ✉️ &nbsp;Get in touch with me via email at ```loubnachender@gmail.com```. 
+  ✉️ &nbsp;Get in touch with me via email at ```loubnachender@gmail.com```.\
+  🌱 &nbsp;Everyday is a learning opportunity.\
+  🏃🏻‍♀️  &nbsp;Trying to have a fitness life
 
 
  <h2>Languages I Speak (Code Edition)</h2>
