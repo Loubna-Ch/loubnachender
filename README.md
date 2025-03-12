@@ -1,4 +1,4 @@
-# Hi 👋! I'm Loubna Chender, Junior Software Engineer
+# Hii 👋! I'm Loubna Chender, Junior Software Engineer
 
 Welcome to my GitHub profile! I'm passionate about building software and continuously learning.
 
