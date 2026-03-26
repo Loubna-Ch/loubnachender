@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about building software and continu
 * 🎓 Currently studying Computer Science at the University of Balamand.
 * 🌱 Always eager to learn and grow my skills.
 * 🏃‍♀️ Enjoy staying active and maintaining a healthy lifestyle.
-* 📫 Contact me: <a href="mailto:loubnachender@gmail.com">loubnachender@gmail.com</a>
+* 📫 Contact me: <a href="https://www.linkedin.com/in/loubna-chender-b75854328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">loubnachender@gmail.com</a>
 
 ## Tech Stack
 
